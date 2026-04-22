@@ -1,0 +1,23 @@
+# Fortune Pump
+
+**The retro crypto fortune teller built on Base.**
+
+Insert 1$ or 10$ in USDC → press the button → the machine spins → you get a random shitcoin from the freshest pumps of the moment.
+
+### Features
+- Retro pixel + psychedelic aesthetic
+- Blue Pepe Zoltar as your fortune teller
+- Real on-chain USDC betting
+- powered smart filters
+- Built on Base
+
+### Tech Stack
+- Next.js 14
+- TypeScript
+- Wagmi + Viem
+- Framer Motion (animations)
+- Tailwind CSS
+
+---
+
+**"Insert coin. Spin your fate."**

@@ -1,0 +1,32 @@
+/* app/globals.css */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
+
+:root {
+  --electric-blue: #0052FF;
+  --neon-purple: #C026D3;
+  --deep-purple: #4C1D95;
+  --dark-bg: #0A0A0F;
+}
+
+body {
+  background: #0A0A0F;
+  color: #fff;
+  font-family: 'VT323', monospace;
+  overflow-x: hidden;
+}
+
+.neon-text {
+  text-shadow: 
+    0 0 5px #0052FF,
+    0 0 10px #0052FF,
+    0 0 20px #C026D3,
+    0 0 40px #C026D3;
+}
+
+.glass-machine {
+  box-shadow: 
+    0 0 60px rgba(0, 82, 255, 0.6),
+    inset 0 0 80px rgba(192, 38, 211, 0.3);
+  border: 8px solid #0052FF;
+  background: linear-gradient(145deg, #1a1a2e, #0f0f1f);
+}
